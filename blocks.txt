@@ -1,0 +1,643 @@
+Block|Title|Year|Genre|Director|Action|Adventure|Animation|Biography|Comedy|Crime|Documentary|Drama|Family|Fantasy|History|Horror|Mystery|Romance|Sci-Fi|Thriller|War|Western|top200
+1|Saving Private Ryan|1998|Action, Drama, War|Steven Spielberg|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|1
+1|Schindler's List|1993|Biography, Drama, History, War|Steven Spielberg|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|1
+2|Indiana Jones and the Last Crusade|1989|Action, Adventure|Steven Spielberg|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+2|Jaws|1975|Adventure, Horror, Thriller|Steven Spielberg|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|1
+2|Raiders of the Lost Ark|1981|Action, Adventure|Steven Spielberg|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+3|Million Dollar Baby|2004|Drama, Sport|Clint Eastwood|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+3|Gran Torino|2008|Drama|Clint Eastwood|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+3|Unforgiven|1992|Western|Clint Eastwood|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1
+4|A Beautiful Mind|2001|Biography, Drama|Ron Howard|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+5|Fargo|1996|Crime, Drama|Joel Coen|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|1
+5|No Country for Old Men|2007|Crime, Drama, Thriller|Ethan Coen, Joel Coen|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|1
+5|The Big Lebowski|1998|Comedy, Crime|Joel Coen|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1
+6|Gladiator|2000|Action, Adventure, Drama|Ridley Scott|1|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+7|Alien|1979|Horror, Sci-Fi|Ridley Scott|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|1
+7|Blade Runner|1982|Drama, Sci-Fi, Thriller|Ridley Scott|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|1|0|0|1
+8|The Departed|2006|Crime, Drama, Thriller|Martin Scorsese|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|1
+8|Casino|1995|Biography, Crime, Drama|Martin Scorsese|0|0|0|1|0|1|0|1|0|0|0|0|0|0|0|0|0|0|1
+8|Goodfellas|1990|Biography, Crime, Drama, Thriller|Martin Scorsese|0|0|0|1|0|1|0|1|0|0|0|0|0|0|0|1|0|0|1
+8|Taxi Driver|1976|Crime, Drama|Martin Scorsese|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|1
+8|Raging Bull|1980|Biography, Drama, Sport|Martin Scorsese|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+9|Terminator 2: Judgment Day|1991|Action, Sci-Fi, Thriller|James Cameron|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1
+9|The Terminator|1984|Action, Sci-Fi|James Cameron|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1
+9|Aliens|1986|Action, Adventure, Sci-Fi, Thriller|James Cameron|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1
+10|Star Trek Into Darkness|2013|Action, Adventure, Sci-Fi, Thriller|J.J. Abrams|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1
+11|The Dark Knight Rises|2012|Action, Crime, Thriller|Christopher Nolan|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|1
+11|The Avengers|2012|Action|Joss Whedon|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+12|Life of Pi|2012|Adventure, Drama, Fantasy|Ang Lee|0|1|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|1
+12|Django Unchained|2012|Adventure, Western|Quentin Tarantino|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1
+12|The Hobbit: An Unexpected Journey|2012|Adventure, Fantasy|Peter Jackson|0|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1
+13|Toy Story 3|2010|Animation, Adventure, Comedy, Family, Fantasy|Lee Unkrich|0|1|1|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|1
+13|How to Train Your Dragon|2010|Animation, Adventure, Comedy, Drama, Family, Fantasy|Dean DeBlois, Chris Sanders|0|1|1|0|1|0|0|1|1|1|0|0|0|0|0|0|0|0|1
+14|Inglourious Basterds|2009|Adventure, Drama, War|Quentin Tarantino|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|1
+15|WALL·E|2008|Animation, Adventure, Family, Romance, Sci-Fi|Andrew Stanton|0|1|1|0|0|0|0|0|1|0|0|0|0|1|1|0|0|0|1
+16|Into the Wild|2007|Adventure, Biography, Drama|Sean Penn|0|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+17|Batman Begins|2005|Action, Adventure, Crime, Drama|Christopher Nolan|1|1|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|1
+18|Howl's Moving Castle|2004|Animation, Action, Adventure, Family, Fantasy, Romance|Hayao Miyazaki|1|1|1|0|0|0|0|0|1|1|0|0|0|1|0|0|0|0|1
+19|Star Trek Into Darkness|2013|Action, Adventure, Sci-Fi, Thriller|J.J. Abrams|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1
+19|Iron Man 3|2013|Action, Adventure, Sci-Fi|Shane Black|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0
+19|Alien Showdown: The Day the Old West Stood Still|2013|Action, Adventure, Horror, Sci-Fi, Western|Rene Perez|1|1|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|1|0
+20|Battleship|2012|Action, Adventure, Sci-Fi, Thriller, War|Peter Berg|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|1|0|0
+20|The Amazing Spider-Man|2012|Action, Adventure, Fantasy|Marc Webb|1|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0
+20|Conquest 1453|2012|Action, Adventure, Drama, History, War|Faruk Aksoy|1|1|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+20|John Carter|2012|Action, Adventure, Fantasy, Sci-Fi|Andrew Stanton|1|1|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0
+20|Act of Valor|2012|Action, Adventure, Thriller, War|Mike McCoy, Scott Waugh|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0
+21|The Dark Knight Rises|2012|Action, Crime, Thriller|Christopher Nolan|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|1
+21|Looper|2012|Action, Crime, Sci-Fi, Thriller|Rian Johnson|1|0|0|0|0|1|0|0|0|0|0|0|0|0|1|1|0|0|0
+21|Get the Gringo|2012|Action, Crime, Drama, Thriller|Adrian Grunberg|1|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+21|Safe House|2012|Action, Crime, Mystery, Thriller|Daniel Espinosa|1|0|0|0|0|1|0|0|0|0|0|0|1|0|0|1|0|0|0
+21|Man on a Ledge|2012|Action, Crime, Thriller|Asger Leth|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+21|One for the Money|2012|Action, Comedy, Crime, Romance, Thriller|Julie Anne Robinson|1|0|0|0|1|1|0|0|0|0|0|0|0|1|0|1|0|0|0
+22|Zambezia|2012|Animation, Adventure, Comedy, Family|Wayne Thornley|0|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+22|Life's a Jungle: Africa's Most Wanted|2012|Animation, Family|Robert D. Hanna|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+22|The Lorax|2012|Animation, Comedy, Family, Fantasy|Chris Renaud, Kyle Balda|0|0|1|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+23|Moonrise Kingdom|2012|Comedy, Drama, Romance|Wes Anderson|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+23|Ruby Sparks|2012|Comedy, Fantasy, Romance|Jonathan Dayton, Valerie Faris|0|0|0|0|1|0|0|0|0|1|0|0|0|1|0|0|0|0|0
+23|Good Deeds|2012|Comedy, Drama, Romance|Tyler Perry|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+23|One for the Money|2012|Action, Comedy, Crime, Romance, Thriller|Julie Anne Robinson|1|0|0|0|1|1|0|0|0|0|0|0|0|1|0|1|0|0|0
+23|The First Time|2012|Comedy, Drama, Romance|Jon Kasdan|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+24|Life of Pi|2012|Adventure, Drama, Fantasy|Ang Lee|0|1|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|1
+24|The Hobbit: An Unexpected Journey|2012|Adventure, Fantasy|Peter Jackson|0|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1
+24|John Carter|2012|Action, Adventure, Fantasy, Sci-Fi|Andrew Stanton|1|1|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0
+24|The Hunger Games|2012|Adventure, Fantasy, Sci-Fi|Gary Ross|0|1|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0
+24|The Amazing Spider-Man|2012|Action, Adventure, Fantasy|Marc Webb|1|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0
+24|Snow White and the Huntsman|2012|Adventure, Drama, Fantasy|Rupert Sanders|0|1|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0
+24|The Swan Princess Christmas|2012|Animation, Adventure, Fantasy, Musical|Richard Rich|0|1|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0
+25|Savages|2012|Crime, Drama, Thriller|Oliver Stone|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+25|Red Lights|2012|Drama, Mystery, Thriller|Rodrigo Cortés|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|0
+25|Zero Dark Thirty|2012|Drama, History, Thriller|Kathryn Bigelow|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|1|0|0|0
+25|Zaytoun|2012|Adventure, Drama, Thriller, War|Eran Riklis|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|1|1|0|0
+25|Kahaani|2012|Drama, Thriller|Sujoy Ghosh|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0
+25|Chronicle|2012|Drama, Sci-Fi, Thriller|Josh Trank|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|1|0|0|0
+25|Get the Gringo|2012|Action, Crime, Drama, Thriller|Adrian Grunberg|1|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+25|The Woman in Black|2012|Drama, Horror, Thriller|James Watkins|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|1|0|0|0
+26|The Cabin in the Woods|2012|Horror, Mystery, Thriller|Drew Goddard|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+26|Crowsnest|2012|Action, Horror, Mystery, Thriller|Brenton Spencer|1|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+26|The Pact|2012|Horror, Mystery, Thriller|Nicholas McCarthy|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+27|Lincoln|2012|Biography, Drama, History, War|Steven Spielberg|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+27|In the Fog|2012|Drama, History, War|Sergei Loznitsa|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+27|Conquest 1453|2012|Action, Adventure, Drama, History, War|Faruk Aksoy|1|1|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+28|Django Unchained|2012|Adventure, Western|Quentin Tarantino|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1
+28|Dead Man's Burden|2012|Drama, Western|Jared Moshe|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0
+29|The Croods|2013|Animation, Adventure, Comedy, Family|Kirk De Micco, Chris Sanders|0|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+29|Epic|2013|Animation, Adventure, Family, Fantasy|Chris Wedge|0|1|1|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+30|The Croods|2013|Animation, Adventure, Comedy, Family|Kirk De Micco, Chris Sanders|0|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+30|A Haunted House|2013|Comedy, Horror|Michael Tiddes|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0
+30|The Hangover Part III|2013|Comedy|Todd Phillips|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+30|Warm Bodies|2013|Comedy, Horror, Romance|Jonathan Levine|0|0|0|0|1|0|0|0|0|0|0|1|0|1|0|0|0|0|0
+30|Identity Thief|2013|Comedy, Crime|Seth Gordon|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0
+31|Welcome to the Punch|2013|Action, Adventure, Crime, Thriller|Eran Creevy|1|1|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+31|A Good Day to Die Hard|2013|Action, Crime, Thriller|John Moore|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+31|The Last Stand|2013|Action, Crime, Thriller|Kim Jee-Woon|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+31|Gangster Squad|2013|Action, Crime, Drama, Thriller|Ruben Fleischer|1|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+32|Epic|2013|Animation, Adventure, Family, Fantasy|Chris Wedge|0|1|1|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+32|Oz the Great and Powerful|2013|Adventure, Family, Fantasy|Sam Raimi|0|1|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+33|The Purge|2013|Horror, Sci-Fi, Thriller|James DeMonaco|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|1|0|0|0
+33|Alien Showdown: The Day the Old West Stood Still|2013|Action, Adventure, Horror, Sci-Fi, Western|Rene Perez|1|1|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|1|0
+34|Any Last Words?|2011|Action, Western|Vaughn Taylor|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0
+34|Rango|2011|Animation, Adventure, Comedy, Family, Western|Gore Verbinski|0|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|1|0
+34|Yellow Rock|2011|Western|Nick Vallelonga|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0
+35|The Road to Freedom|2011|Adventure, Drama, History, War|Brendan Moriarty|0|1|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+35|The Broken Tower|2011|Biography, Drama, History, War|James Franco|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+35|Pathfinders: In the Company of Strangers|2011|Action, Drama, History, War|Curt A. Sindelar|1|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+36|Fast Five|2011|Action, Crime, Thriller|Justin Lin|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+36|Sherlock Holmes: A Game of Shadows|2011|Action, Adventure, Crime, Mystery, Thriller|Guy Ritchie|1|1|0|0|0|1|0|0|0|0|0|0|1|0|0|1|0|0|0
+36|The Raid: Redemption|2011|Action, Crime, Thriller|Gareth Evans|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+36|The Double|2011|Action, Crime, Drama, Mystery, Thriller|Michael Brandt|1|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+36|The Green Hornet|2011|Action, Comedy, Crime, Sci-Fi, Thriller|Michel Gondry|1|0|0|0|1|1|0|0|0|0|0|0|0|0|1|1|0|0|0
+37|Rio|2011|Animation, Adventure, Comedy, Family, Musical|Carlos Saldanha|0|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+37|Kung Fu Panda 2|2011|Animation, Action, Adventure, Comedy, Family|Jennifer Yuh|1|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+37|Jock the Hero Dog|2011|Animation, Adventure, Comedy, Family|Duncan MacNeillie|0|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+37|Rango|2011|Animation, Adventure, Comedy, Family, Western|Gore Verbinski|0|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|1|0
+38|The Twilight Saga: Breaking Dawn - Part 1|2011|Adventure, Drama, Fantasy, Romance|Bill Condon|0|1|0|0|0|0|0|1|0|1|0|0|0|1|0|0|0|0|0
+38|Midnight in Paris|2011|Comedy, Fantasy, Romance|Woody Allen|0|0|0|0|1|0|0|0|0|1|0|0|0|1|0|0|0|0|0
+39|Absentia|2011|Drama, Horror, Mystery|Mike Flanagan|0|0|0|0|0|0|0|1|0|0|0|1|1|0|0|0|0|0|0
+39|Final Destination 5|2011|Horror, Mystery|Steven Quale|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0|0|0|0
+39|The Caller|2011|Horror, Mystery, Thriller|Matthew Parkhill|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+40|Contagion|2011|Drama, Sci-Fi, Thriller|Steven Soderbergh|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|1|0|0|0
+40|I Am Number Four|2011|Drama, Romance, Sci-Fi, Thriller|D.J. Caruso|0|0|0|0|0|0|0|1|0|0|0|0|0|1|1|1|0|0|0
+40|Rise of the Planet of the Apes|2011|Action, Drama, Sci-Fi, Thriller|Rupert Wyatt|1|0|0|0|0|0|0|1|0|0|0|0|0|0|1|1|0|0|0
+41|Resident Evil: Afterlife|2010|Action, Adventure, Horror, Sci-Fi|Paul W.S. Anderson|1|1|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0
+41|Inception|2010|Action, Adventure, Mystery, Sci-Fi, Thriller|Christopher Nolan|1|1|0|0|0|0|0|0|0|0|0|0|1|0|1|1|0|0|1
+41|Iron Man 2|2010|Action, Adventure, Sci-Fi|Jon Favreau|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0
+42|Toy Story 3|2010|Animation, Adventure, Comedy, Family, Fantasy|Lee Unkrich|0|1|1|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|1
+42|How to Train Your Dragon|2010|Animation, Adventure, Comedy, Drama, Family, Fantasy|Dean DeBlois, Chris Sanders|0|1|1|0|1|0|0|1|1|1|0|0|0|0|0|0|0|0|1
+43|Edge of Darkness|2010|Crime, Drama, Mystery, Thriller|Martin Campbell|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+43|Elite Squad: The Enemy Within|2010|Action, Crime, Drama, Thriller|José Padilha|1|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+43|I Saw the Devil|2010|Crime, Drama, Thriller|Kim Jee-Woon|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+43|The Next Three Days|2010|Crime, Drama, Romance, Thriller|Paul Haggis|0|0|0|0|0|1|0|1|0|0|0|0|0|1|0|1|0|0|0
+43|The Town|2010|Crime, Drama, Thriller|Ben Affleck|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+44|And Soon the Darkness|2010|Crime, Horror, Mystery, Thriller|Marcos Efron|0|0|0|0|0|1|0|0|0|0|0|1|1|0|0|1|0|0|0
+44|Needle|2010|Horror, Mystery, Thriller|John V. Soto|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+45|Dear John|2010|Drama, Romance, War|Lasse Hallström|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|1|0|0
+45|Incendies|2010|Drama, Mystery, War|Denis Villeneuve|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|1|0|0
+46|Jonah Hex|2010|Action, Drama, Fantasy, Thriller, Western|Jimmy Hayward|1|0|0|0|0|0|0|1|0|1|0|0|0|0|0|1|0|1|0
+46|True Grit|2010|Adventure, Drama, Western|Ethan Coen, Joel Coen|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0
+46|Gunless|2010|Action, Comedy, Drama, Western|William Phillips|1|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|1|0
+47|Palo Pinto Gold|2009|Western|Anthony Henslee|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0
+48|Inglourious Basterds|2009|Adventure, Drama, War|Quentin Tarantino|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|1
+48|The Messenger|2009|Drama, Romance, War|Oren Moverman|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|1|0|0
+48|The Priest|2009|Drama, History, War|Vladimir Khotinenko|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+49|The International|2009|Action, Crime, Drama, Mystery, Thriller|Tom Tykwer|1|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+49|In the Electric Mist|2009|Crime, Drama, Mystery, Thriller|Bertrand Tavernier|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+49|Earthling|2009|Drama, Mystery, Sci-Fi, Thriller|Jon Cassar|0|0|0|0|0|0|0|1|0|0|0|0|1|0|1|1|0|0|0
+49|The Secret in Their Eyes|2009|Drama, Mystery, Thriller|Juan José Campanella|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|1
+49|Godspeed|2009|Drama, Mystery, Thriller|Robert Saitzyk|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|0
+50|The International|2009|Action, Crime, Drama, Mystery, Thriller|Tom Tykwer|1|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+50|In the Electric Mist|2009|Crime, Drama, Mystery, Thriller|Bertrand Tavernier|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+50|Sherlock Holmes|2009|Action, Adventure, Crime, Mystery, Thriller|Guy Ritchie|1|1|0|0|0|1|0|0|0|0|0|0|1|0|0|1|0|0|0
+50|S. Darko|2009|Crime, Mystery, Sci-Fi, Thriller|Chris Fisher|0|0|0|0|0|1|0|0|0|0|0|0|1|0|1|1|0|0|0
+51|Underworld: Rise of the Lycans|2009|Action, Adventure, Fantasy, Sci-Fi, Thriller|Patrick Tatopoulos|1|1|0|0|0|0|0|0|0|1|0|0|0|0|1|1|0|0|0
+51|Avatar|2009|Action, Adventure, Fantasy, Sci-Fi|James Cameron|1|1|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0
+51|Super Capers: The Origins of Ed and the Missing Bullion|2009|Action, Adventure, Comedy, Fantasy, Sci-Fi|Ray Griggs|1|1|0|0|1|0|0|0|0|1|0|0|0|0|1|0|0|0|0
+52|Hannah Montana: The Movie|2009|Comedy, Drama, Family, Music, Romance|Peter Chelsom|0|0|0|0|1|0|0|1|1|0|0|0|0|1|0|0|0|0|0
+52|(500) Days of Summer|2009|Comedy, Drama, Romance|Marc Webb|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+53|The Descent: Part 2|2009|Adventure, Horror, Thriller|Jon Harris|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0
+53|The House of the Devil|2009|Horror, Thriller|Ti West|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0
+53|My Bloody Valentine|2009|Horror, Thriller|Patrick Lussier|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0
+53|Deadline|2009|Thriller, Drama, Horror|Sean McConville|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|1|0|0|0
+53|Tony|2009|Drama, Horror, Thriller|Gerard Johnson|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|1|0|0|0
+53|Penance|2009|Horror, Mystery, Thriller|Jake Kennedy|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+54|Happily N'Ever After 2|2009|Animation, Adventure, Comedy, Family, Fantasy|Steven E. Gordon, Boyd Kirkland|0|1|1|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+54|Planet 51|2009|Animation, Adventure, Comedy, Family, Sci-Fi|Jorge Blanco, Javier Abad|0|1|1|0|1|0|0|0|1|0|0|0|0|0|1|0|0|0|0
+55|The Last Confession of Alexander Pearce|2008|Biography, Drama, History, Horror, Western|Michael James Rowland|0|0|0|1|0|0|0|1|0|0|1|1|0|0|0|0|0|1|0
+56|Passchendaele|2008|Drama, History, Romance, War|Paul Gross|0|0|0|0|0|0|0|1|0|0|1|0|0|1|0|0|1|0|0
+56|Australia|2008|Adventure, Drama, History, Romance, War|Baz Luhrmann|0|1|0|0|0|0|0|1|0|0|1|0|0|1|0|0|1|0|0
+57|From Within|2008|Horror, Mystery, Thriller|Phedon Papamichael|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+57|The Children|2008|Horror, Mystery, Thriller|Tom Shankland|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+57|Breathing Room|2008|Horror, Mystery, Thriller|John Suits, Gabriel Cowan|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+58|Death Race|2008|Action, Sci-Fi, Thriller|Paul W.S. Anderson|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0
+58|Iron Man|2008|Action, Adventure, Sci-Fi|Jon Favreau|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0
+58|Biohazard: Degeneration|2008|Animation, Action, Horror, Sci-Fi, Thriller|Makoto Kamiya|1|0|1|0|0|0|0|0|0|0|0|1|0|0|1|1|0|0|0
+59|Nim's Island|2008|Adventure, Comedy, Family, Fantasy|Jennifer Flackett, Mark Levin|0|1|0|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+59|Bedtime Stories|2008|Comedy, Family, Fantasy, Romance|Adam Shankman|0|0|0|0|1|0|0|0|1|1|0|0|0|1|0|0|0|0|0
+59|Igor|2008|Animation, Comedy, Family, Fantasy|Anthony Leondis|0|0|1|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+60|Nim's Island|2008|Adventure, Comedy, Family, Fantasy|Jennifer Flackett, Mark Levin|0|1|0|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+60|The Chronicles of Narnia: Prince Caspian|2008|Action, Adventure, Family, Fantasy|Andrew Adamson|1|1|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+60|The Spiderwick Chronicles|2008|Adventure, Family, Fantasy|Mark Waters|0|1|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+61|WALL·E|2008|Animation, Adventure, Family, Romance, Sci-Fi|Andrew Stanton|0|1|1|0|0|0|0|0|1|0|0|0|0|1|1|0|0|0|1
+61|Idiots and Angels|2008|Animation, Comedy, Drama, Fantasy|Bill Plympton|0|0|1|0|1|0|0|1|0|1|0|0|0|0|0|0|0|0|0
+61|Igor|2008|Animation, Comedy, Family, Fantasy|Anthony Leondis|0|0|1|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+61|Biohazard: Degeneration|2008|Animation, Action, Horror, Sci-Fi, Thriller|Makoto Kamiya|1|0|1|0|0|0|0|0|0|0|0|1|0|0|1|1|0|0|0
+62|Ratatouille|2007|Animation, Comedy, Family, Fantasy|Brad Bird, Jan Pinkava|0|0|1|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+62|Alvin and the Chipmunks|2007|Animation, Comedy, Family, Fantasy, Music|Tim Hill|0|0|1|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+62|TMNT|2007|Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi|Kevin Munroe|1|1|1|0|1|0|0|0|1|1|0|0|0|0|1|0|0|0|0
+63|3:10 to Yuma|2007|Action, Crime, Drama, Western|James Mangold|1|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|1|0
+63|The Assassination of Jesse James by the Coward Robert Ford|2007|Biography, Crime, Drama, History, Western|Andrew Dominik|0|0|0|1|0|1|0|1|0|0|1|0|0|0|0|0|0|1|0
+63|Missionary Man|2007|Action, Drama, Thriller, Western|Dolph Lundgren|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|1|0
+64|The Hunting Party|2007|Adventure, Comedy, Drama, Thriller, War|Richard Shepard|0|1|0|0|1|0|0|1|0|0|0|0|0|0|0|1|1|0|0
+64|Atonement|2007|Drama, Mystery, Romance, War|Joe Wright|0|0|0|0|0|0|0|1|0|0|0|0|1|1|0|0|1|0|0
+64|The Counterfeiters|2007|Crime, Drama, War|Stefan Ruzowitzky|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|1|0|0
+64|Atonement|2007|Drama, Mystery, Romance, War|Joe Wright|0|0|0|0|0|0|0|1|0|0|0|0|1|1|0|0|1|0|0
+65|Mr. Brooks|2007|Crime, Drama, Mystery, Thriller|Bruce A. Evans|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+65|Zodiac|2007|Crime, Drama, Mystery, Thriller|David Fincher|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+65|Gone Baby Gone|2007|Crime, Drama, Mystery, Thriller|Ben Affleck|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+65|Fracture|2007|Crime, Drama, Mystery, Thriller|Gregory Hoblit|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+66|Highlander: The Source|2007|Action, Adventure, Fantasy, Sci-Fi|Brett Leonard|1|1|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0
+66|Rogue|2007|Action, Adventure, Horror, Sci-Fi, Thriller|Greg Mclean|1|1|0|0|0|0|0|0|0|0|0|1|0|0|1|1|0|0|0
+66|Transformers|2007|Action, Adventure, Sci-Fi, Thriller|Michael Bay|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0
+66|TMNT|2007|Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi|Kevin Munroe|1|1|1|0|1|0|0|0|1|1|0|0|0|0|1|0|0|0|0
+67|Enchanted|2007|Comedy, Family, Fantasy, Musical, Romance|Kevin Lima|0|0|0|0|1|0|0|0|1|1|0|0|0|1|0|0|0|0|0
+67|Dedication|2007|Comedy, Drama, Romance|Justin Theroux|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+67|Mr. Woodcock|2007|Comedy, Romance, Sport|Craig Gillespie|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0
+67|Juno|2007|Comedy, Drama, Romance|Jason Reitman|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+67|Eagle vs Shark|2007|Comedy, Romance|Taika Waititi|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0
+67|Knocked Up|2007|Comedy, Drama, Romance|Judd Apatow|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+67|The Jane Austen Book Club|2007|Comedy, Drama, Romance|Robin Swicord|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+67|License to Wed|2007|Comedy, Romance|Ken Kwapis|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0
+68|Ratatouille|2007|Animation, Comedy, Family, Fantasy|Brad Bird, Jan Pinkava|0|0|1|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+68|Alvin and the Chipmunks|2007|Animation, Comedy, Family, Fantasy, Music|Tim Hill|0|0|1|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+68|TMNT|2007|Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi|Kevin Munroe|1|1|1|0|1|0|0|0|1|1|0|0|0|0|1|0|0|0|0
+69|Resident Evil: Extinction|2007|Action, Horror, Sci-Fi, Thriller|Russell Mulcahy|1|0|0|0|0|0|0|0|0|0|0|1|0|0|1|1|0|0|0
+69|Rogue|2007|Action, Adventure, Horror, Sci-Fi, Thriller|Greg Mclean|1|1|0|0|0|0|0|0|0|0|0|1|0|0|1|1|0|0|0
+69|Unearthed|2007|Horror, Mystery, Sci-Fi, Thriller|Matthew Leutwyler|0|0|0|0|0|0|0|0|0|0|0|1|1|0|1|1|0|0|0
+69|Botched|2007|Comedy, Crime, Horror, Thriller|Kit Ryan|0|0|0|0|1|1|0|0|0|0|0|1|0|0|0|1|0|0|0
+69|Saw IV|2007|Crime, Horror, Thriller|Darren Lynn Bousman|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|1|0|0|0
+70|The Woods|2006|Horror, Mystery, Thriller|Lucky McKee|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+70|All the Boys Love Mandy Lane|2006|Horror, Mystery, Thriller|Jonathan Levine|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+70|Danika|2006|Drama, Horror, Mystery, Thriller|Ariel Vromen|0|0|0|0|0|0|0|1|0|0|0|1|1|0|0|1|0|0|0
+70|Basic Instinct 2|2006|Crime, Horror, Mystery, Thriller|Michael Caton-Jones|0|0|0|0|0|1|0|0|0|0|0|1|1|0|0|1|0|0|0
+71|Bandidas|2006|Action, Comedy, Crime, Western|Joachim Rønning, Espen Sandberg|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|1|0
+71|The Quick and the Undead|2006|Action, Horror, Western|Gerald Nott|1|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0
+72|Letters from Iwo Jima|2006|Drama, History, War|Clint Eastwood|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+72|Flags of Our Fathers|2006|Drama, History, War|Clint Eastwood|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+72|300|2006|Action, Fantasy, History, War|Zack Snyder|1|0|0|0|0|0|0|0|0|1|1|0|0|0|0|0|1|0|0
+73|The Woods|2006|Horror, Mystery, Thriller|Lucky McKee|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+73|All the Boys Love Mandy Lane|2006|Horror, Mystery, Thriller|Jonathan Levine|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+73|Danika|2006|Drama, Horror, Mystery, Thriller|Ariel Vromen|0|0|0|0|0|0|0|1|0|0|0|1|1|0|0|1|0|0|0
+73|Basic Instinct 2|2006|Crime, Horror, Mystery, Thriller|Michael Caton-Jones|0|0|0|0|0|1|0|0|0|0|0|1|1|0|0|1|0|0|0
+74|X-Men: The Last Stand|2006|Action, Adventure, Sci-Fi, Thriller|Brett Ratner|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0
+74|Altered|2006|Horror, Sci-Fi, Thriller|Eduardo Sánchez|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|1|0|0|0
+74|The Host|2006|Action, Horror, Sci-Fi, Thriller|Joon-ho Bong|1|0|0|0|0|0|0|0|0|0|0|1|0|0|1|1|0|0|0
+74|The Kovak Box|2006|Mystery, Sci-Fi, Thriller|Daniel Monzón|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|1|0|0|0
+75|A Good Year|2006|Comedy, Drama, Romance|Ridley Scott|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+75|Click|2006|Comedy, Drama, Fantasy, Romance|Frank Coraci|0|0|0|0|1|0|0|1|0|1|0|0|0|1|0|0|0|0|0
+75|The Illusionist|2006|Drama, Mystery, Romance, Thriller|Neil Burger|0|0|0|0|0|0|0|1|0|0|0|0|1|1|0|1|0|0|0
+75|Annapolis|2006|Drama, Romance, Sport|Justin Lin|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+75|Fur: An Imaginary Portrait of Diane Arbus|2006|Biography, Drama, Mystery, Romance|Steven Shainberg|0|0|0|1|0|0|0|1|0|0|0|0|1|1|0|0|0|0|0
+75|Come Early Morning|2006|Drama, Romance|Joey Lauren Adams|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+75|Starter for 10|2006|Comedy, Drama, Romance|Tom Vaughan|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+75|The Fountain|2006|Drama, Romance, Sci-Fi|Darren Aronofsky|0|0|0|0|0|0|0|1|0|0|0|0|0|1|1|0|0|0|0
+76|Pan's Labyrinth|2006|Drama, Fantasy, War|Guillermo del Toro|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|1|0|1
+76|Click|2006|Comedy, Drama, Fantasy, Romance|Frank Coraci|0|0|0|0|1|0|0|1|0|1|0|0|0|1|0|0|0|0|0
+76|Pan's Labyrinth|2006|Drama, Fantasy, War|Guillermo del Toro|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|1|0|1
+76|Perfume: The Story of a Murderer|2006|Drama, Fantasy|Tom Tykwer|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0
+77|Happy Feet|2006|Animation, Comedy, Family, Music|George Miller, Warren Coleman|0|0|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+77|The Shaggy Dog|2006|Comedy, Family, Fantasy|Brian Robbins|0|0|0|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+77|Ice Age: The Meltdown|2006|Animation, Action, Adventure, Comedy, Family, Fantasy, Romance, Sci-Fi|Carlos Saldanha|1|1|1|0|1|0|0|0|1|1|0|0|0|1|1|0|0|0|0
+77|Material Girls|2006|Comedy, Family, Romance|Martha Coolidge|0|0|0|0|1|0|0|0|1|0|0|0|0|1|0|0|0|0|0
+77|Unaccompanied Minors|2006|Adventure, Comedy, Family|Paul Feig|0|1|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+78|The Departed|2006|Crime, Drama, Thriller|Martin Scorsese|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|1
+78|The Lost|2006|Crime, Drama, Horror, Thriller|Chris Sivertson|0|0|0|0|0|1|0|1|0|0|0|1|0|0|0|1|0|0|0
+78|Running Scared|2006|Action, Crime, Drama, Thriller|Wayne Kramer|1|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+78|The Departed|2006|Crime, Drama, Thriller|Martin Scorsese|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|1
+78|Inside Man|2006|Crime, Drama, Thriller|Spike Lee|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+78|Lucky Number Slevin|2006|Crime, Drama, Mystery, Thriller|Paul McGuigan|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+78|Inside Man|2006|Crime, Drama, Thriller|Spike Lee|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+79|Happy Feet|2006|Animation, Comedy, Family, Music|George Miller, Warren Coleman|0|0|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+79|Ice Age: The Meltdown|2006|Animation, Action, Adventure, Comedy, Family, Fantasy, Romance, Sci-Fi|Carlos Saldanha|1|1|1|0|1|0|0|0|1|1|0|0|0|1|1|0|0|0|0
+80|Apocalypto|2006|Action, Adventure, Drama, Thriller|Mel Gibson|1|1|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0
+80|X-Men: The Last Stand|2006|Action, Adventure, Sci-Fi, Thriller|Brett Ratner|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0
+80|Ice Age: The Meltdown|2006|Animation, Action, Adventure, Comedy, Family, Fantasy, Romance, Sci-Fi|Carlos Saldanha|1|1|1|0|1|0|0|0|1|1|0|0|0|1|1|0|0|0|0
+80|Pirates of the Caribbean: Dead Man's Chest|2006|Action, Adventure, Fantasy|Gore Verbinski|1|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0
+81|Kingdom of Heaven|2005|Action, Adventure, Drama, History, War|Ridley Scott|1|1|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+81|The White Countess|2005|Drama, History, Romance, War|James Ivory|0|0|0|0|0|0|0|1|0|0|1|0|0|1|0|0|1|0|0
+81|Sophie Scholl: The Final Days|2005|Biography, Crime, Drama, History, Thriller, War|Marc Rothemund|0|0|0|1|0|1|0|1|0|0|1|0|0|0|0|1|1|0|0
+82|Hide and Seek|2005|Horror, Mystery, Thriller|John Polson|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+82|Cursed|2005|Comedy, Horror, Thriller|Wes Craven|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|1|0|0|0
+82|Survival Island|2005|Adventure, Drama, Horror, Thriller|Stewart Raffill|0|1|0|0|0|0|0|1|0|0|0|1|0|0|0|1|0|0|0
+83|Stealth|2005|Action, Adventure, Sci-Fi, Thriller|Rob Cohen|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0
+83|Serenity|2005|Action, Adventure, Sci-Fi, Thriller|Joss Whedon|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0
+83|Star Wars: Episode III - Revenge of the Sith|2005|Action, Adventure, Fantasy, Sci-Fi|George Lucas|1|1|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0
+83|A Sound of Thunder|2005|Action, Adventure, Sci-Fi, Thriller|Peter Hyams|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0
+84|Just Like Heaven|2005|Comedy, Fantasy, Romance|Mark Waters|0|0|0|0|1|0|0|0|0|1|0|0|0|1|0|0|0|0|0
+84|Are We There Yet?|2005|Adventure, Comedy, Drama, Family, Romance|Brian Levant|0|1|0|0|1|0|0|1|1|0|0|0|0|1|0|0|0|0|0
+84|Roll Bounce|2005|Comedy, Drama, Music, Romance|Malcolm D. Lee|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+85|Kingdom of Heaven|2005|Action, Adventure, Drama, History, War|Ridley Scott|1|1|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+85|Stealth|2005|Action, Adventure, Sci-Fi, Thriller|Rob Cohen|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0
+85|Batman Begins|2005|Action, Adventure, Crime, Drama|Christopher Nolan|1|1|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|1
+85|King Kong|2005|Action, Adventure, Drama, Romance|Peter Jackson|1|1|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+85|Serenity|2005|Action, Adventure, Sci-Fi, Thriller|Joss Whedon|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0
+85|Star Wars: Episode III - Revenge of the Sith|2005|Action, Adventure, Fantasy, Sci-Fi|George Lucas|1|1|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0
+85|A Sound of Thunder|2005|Action, Adventure, Sci-Fi, Thriller|Peter Hyams|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0
+86|Howl's Moving Castle|2004|Animation, Action, Adventure, Family, Fantasy, Romance|Hayao Miyazaki|1|1|1|0|0|0|0|0|1|1|0|0|0|1|0|0|0|0|1
+86|Shark Tale|2004|Animation, Adventure, Comedy, Family|Bibo Bergeron, Vicky Jenson|0|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+87|Howl's Moving Castle|2004|Animation, Action, Adventure, Family, Fantasy, Romance|Hayao Miyazaki|1|1|1|0|0|0|0|0|1|1|0|0|0|1|0|0|0|0|1
+87|Alexander|2004|Action, Adventure, Biography, Drama, History, Romance, War|Oliver Stone|1|1|0|1|0|0|0|1|0|0|1|0|0|1|0|0|1|0|0
+87|Hidalgo|2004|Action, Adventure, Western|Joe Johnston|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0
+87|Spider-Man 2|2004|Action, Adventure, Fantasy|Sam Raimi|1|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0
+88|The Alamo|2004|Drama, History, War, Western|John Lee Hancock|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|1|0
+88|Hidalgo|2004|Action, Adventure, Western|Joe Johnston|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0
+89|Downfall|2004|Biography, Drama, History, War|Oliver Hirschbiegel|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|1
+89|Hotel Rwanda|2004|Biography, Drama, History, War|Terry George|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|1
+89|Alexander|2004|Action, Adventure, Biography, Drama, History, Romance, War|Oliver Stone|1|1|0|1|0|0|0|1|0|0|1|0|0|1|0|0|1|0|0
+90|Sideways|2004|Comedy, Drama, Romance|Alexander Payne|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+90|Wimbledon|2004|Comedy, Romance, Sport|Richard Loncraine|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0
+90|Eating Out|2004|Comedy, Drama, Romance|Q. Allan Brocka|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+90|Jersey Girl|2004|Comedy, Drama, Romance|Kevin Smith|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+90|Meet the Fockers|2004|Comedy, Romance|Jay Roach|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0
+91|Ocean's Twelve|2004|Crime, Thriller|Steven Soderbergh|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+91|The Ladykillers|2004|Comedy, Crime, Thriller|Ethan Coen, Joel Coen|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+91|Dead Man's Shoes|2004|Crime, Drama, Thriller|Shane Meadows|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+91|Collateral|2004|Crime, Drama, Thriller|Michael Mann|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+91|Kill Bill: Vol. 2|2004|Action, Crime, Thriller|Quentin Tarantino|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+91|The Bourne Supremacy|2004|Action, Crime, Thriller|Paul Greengrass|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+92|Howl's Moving Castle|2004|Animation, Action, Adventure, Family, Fantasy, Romance|Hayao Miyazaki|1|1|1|0|0|0|0|0|1|1|0|0|0|1|0|0|0|0|1
+92|Miss Castaway and the Island Girls|2004|Adventure, Comedy, Fantasy|Bryan Michael Stoller|0|1|0|0|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0
+92|Spider-Man 2|2004|Action, Adventure, Fantasy|Sam Raimi|1|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0
+92|Harry Potter and the Prisoner of Azkaban|2004|Adventure, Family, Fantasy, Mystery|Alfonso Cuarón|0|1|0|0|0|0|0|0|1|1|0|0|1|0|0|0|0|0|0
+93|Exorcist: The Beginning|2004|Horror, Mystery, Thriller|Renny Harlin|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+93|Shaun of the Dead|2004|Comedy, Horror|Edgar Wright|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0
+93|Saw|2004|Crime, Horror, Mystery|James Wan|0|0|0|0|0|1|0|0|0|0|0|1|1|0|0|0|0|0|0
+93|Seed of Chucky|2004|Comedy, Horror, Thriller|Don Mancini|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|1|0|0|0
+94|The Manchurian Candidate|2004|Drama, Mystery, Thriller|Jonathan Demme|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|1
+94|Exorcist: The Beginning|2004|Horror, Mystery, Thriller|Renny Harlin|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+94|I, Robot|2004|Action, Mystery, Sci-Fi, Thriller|Alex Proyas|1|0|0|0|0|0|0|0|0|0|0|0|1|0|1|1|0|0|0
+94|The I Inside|2004|Mystery, Sci-Fi, Thriller|Roland Suso Richter|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|1|0|0|0
+94|Keane|2004|Drama, Mystery, Thriller|Lodge Kerrigan|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|0
+95|A.I. Artificial Intelligence|2001|Adventure, Drama, Sci-Fi|Steven Spielberg|0|1|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0
+95|Always|1989|Fantasy, Romance, Drama|Steven Spielberg|0|0|0|0|0|0|0|1|0|1|0|0|0|1|0|0|0|0|0
+95|Amistad|1997|Drama, History, Mystery|Steven Spielberg|0|0|0|0|0|0|0|1|0|0|1|0|1|0|0|0|0|0|0
+95|Catch Me If You Can|2002|Biography, Comedy, Crime, Drama|Steven Spielberg|0|0|0|1|1|1|0|1|0|0|0|0|0|0|0|0|0|0|0
+95|Empire of the Sun|1987|Drama, History, War|Steven Spielberg|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+95|Hook|1991|Adventure, Comedy, Family, Fantasy|Steven Spielberg|0|1|0|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+95|Indiana Jones and the Kingdom of the Crystal Skull|2008|Action, Adventure|Steven Spielberg|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+95|Jurassic Park|1993|Adventure, Sci-Fi|Steven Spielberg|0|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0
+95|Lincoln|2012|Biography, Drama, History, War|Steven Spielberg|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+96|Minority Report|2002|Action, Mystery, Sci-Fi, Thriller|Steven Spielberg|1|0|0|0|0|0|0|0|0|0|0|0|1|0|1|1|0|0|0
+96|Munich|2005|Drama, History, Thriller|Steven Spielberg|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|1|0|0|0
+96|The Adventures of Tintin|2011|Animation, Action, Adventure, Family, Mystery|Steven Spielberg|1|1|1|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0
+96|The Color Purple|1985|Drama|Steven Spielberg|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+96|The Lost World: Jurassic Park|1997|Action, Adventure, Sci-Fi|Steven Spielberg|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0
+96|The Terminal|2004|Comedy, Drama|Steven Spielberg|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+96|War Horse|2011|Drama, War|Steven Spielberg|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0
+96|War of the Worlds|2005|Adventure, Sci-Fi, Thriller|Steven Spielberg|0|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0
+97|A Perfect World|1993|Crime, Drama, Thriller|Clint Eastwood|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+97|Absolute Power|1997|Crime, Drama, Thriller|Clint Eastwood|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+97|Bird|1988|Biography, Drama, Music|Clint Eastwood|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+97|Blood Work|2002|Action, Crime, Drama, Mystery, Thriller|Clint Eastwood|1|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+97|Changeling|2008|Drama, History, Mystery, Thriller|Clint Eastwood|0|0|0|0|0|0|0|1|0|0|1|0|1|0|0|1|0|0|0
+97|Flags of Our Fathers|2006|Drama, History, War|Clint Eastwood|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+97|Hereafter|2010|Drama, Fantasy|Clint Eastwood|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0
+97|Invictus|2009|Biography, Drama, History, Sport|Clint Eastwood|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0
+97|J. Edgar|2011|Biography, Crime, Drama, History|Clint Eastwood|0|0|0|1|0|1|0|1|0|0|1|0|0|0|0|0|0|0|0
+98|Letters from Iwo Jima|2006|Drama, History, War|Clint Eastwood|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+98|Midnight in the Garden of Good and Evil|1997|Comedy, Crime, Drama, Mystery, Thriller|Clint Eastwood|0|0|0|0|1|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+98|Mystic River|2003|Crime, Drama, Mystery, Thriller|Clint Eastwood|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+98|Space Cowboys|2000|Action, Adventure, Thriller|Clint Eastwood|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0
+98|The Bridges of Madison County|1995|Drama, Romance|Clint Eastwood|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+98|The Rookie|2002|Drama, Family, Sport|John Lee Hancock|0|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0
+98|True Crime|1999|Crime, Drama, Mystery, Thriller|Clint Eastwood|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+98|White Hunter Black Heart|1990|Adventure, Drama|Clint Eastwood|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+99|Behind the Candelabra|2013|Biography, Drama, Romance|Steven Soderbergh|0|0|0|1|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+99|Bubble|2005|Crime, Drama, Mystery|Steven Soderbergh|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|0|0|0|0
+99|Contagion|2011|Drama, Sci-Fi, Thriller|Steven Soderbergh|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|1|0|0|0
+99|Erin Brockovich|2000|Biography, Drama|Steven Soderbergh|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+99|Full Frontal|2002|Comedy, Romance|Steven Soderbergh|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0
+99|Gray's Anatomy|1996|Comedy, Drama|Steven Soderbergh|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+99|Haywire|2011|Action, Thriller|Steven Soderbergh|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0
+99|Magic Mike|2012|Comedy, Drama|Steven Soderbergh|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+99|Ocean's Eleven|2001|Crime, Thriller|Steven Soderbergh|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+99|Ocean's Thirteen|2007|Crime, Thriller|Steven Soderbergh|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+100|Ocean's Twelve|2004|Crime, Thriller|Steven Soderbergh|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+100|Out of Sight|1998|Action, Comedy, Crime, Thriller|Steven Soderbergh|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+100|Side Effects|2013|Crime, Drama, Thriller|Steven Soderbergh|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+100|Solaris|2002|Drama, Mystery, Romance, Sci-Fi|Steven Soderbergh|0|0|0|0|0|0|0|1|0|0|0|0|1|1|1|0|0|0|0
+100|The Girlfriend Experience|2009|Drama|Steven Soderbergh|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+100|The Good German|2006|Drama, Mystery, Thriller|Steven Soderbergh|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|0
+100|The Informant!|2009|Comedy, Crime, Drama, Thriller|Steven Soderbergh|0|0|0|0|1|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+100|The Limey|1999|Crime, Drama, Mystery, Thriller|Steven Soderbergh|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+100|Traffic|2000|Crime, Drama, Thriller|Steven Soderbergh|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+100|Underneath|1995|Crime, Drama, Thriller|Steven Soderbergh|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+101|Angels & Demons|2009|Mystery, Thriller|Ron Howard|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0
+101|Apollo 13|1995|Drama, History|Ron Howard|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0
+101|Backdraft|1991|Action, Crime, Drama, Mystery, Thriller|Ron Howard|1|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+101|Cinderella Man|2005|Biography, Drama, Romance, Sport|Ron Howard|0|0|0|1|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+101|Cocoon|1985|Comedy, Drama, Sci-Fi|Ron Howard|0|0|0|0|1|0|0|1|0|0|0|0|0|0|1|0|0|0|0
+101|Edtv|1999|Comedy|Ron Howard|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+101|Far and Away|1992|Adventure, Drama, Romance, Western|Ron Howard|0|1|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|1|0
+101|Frost/Nixon|2008|Drama, History|Ron Howard|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0
+101|Gung Ho|1986|Comedy, Drama|Ron Howard|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+101|How the Grinch Stole Christmas|2000|Comedy, Family, Fantasy|Ron Howard|0|0|0|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+102|Night Shift|1982|Comedy|Ron Howard|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+102|Parenthood|1989|Comedy, Drama|Ron Howard|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+102|Ransom|1996|Crime, Thriller|Ron Howard|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+102|Splash|1984|Comedy, Fantasy, Romance|Ron Howard|0|0|0|0|1|0|0|0|0|1|0|0|0|1|0|0|0|0|0
+102|The Da Vinci Code|2006|Mystery, Thriller|Ron Howard|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0
+102|The Dilemma|2011|Comedy, Drama|Ron Howard|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+102|The Missing|2003|Adventure, Thriller, Western|Ron Howard|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0
+102|The Paper|1994|Comedy, Drama|Ron Howard|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+102|Willow|1988|Action, Adventure, Drama, Fantasy, Romance|Ron Howard|1|1|0|0|0|0|0|1|0|1|0|0|0|1|0|0|0|0|0
+103|A Serious Man|2009|Comedy, Drama|Ethan Coen, Joel Coen|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+103|Barton Fink|1991|Drama|Joel Coen|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+103|Blood Simple.|1984|Crime, Thriller|Joel Coen|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+103|Burn After Reading|2008|Comedy, Crime, Drama|Ethan Coen, Joel Coen|0|0|0|0|1|1|0|1|0|0|0|0|0|0|0|0|0|0|0
+103|Inside Llewyn Davis|2013|Drama, Music|Ethan Coen, Joel Coen|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+103|Intolerable Cruelty|2003|Comedy, Crime, Romance|Joel Coen|0|0|0|0|1|1|0|0|0|0|0|0|0|1|0|0|0|0|0
+103|Miller's Crossing|1990|Crime, Drama, Thriller|Joel Coen|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+103|No Country for Old Men|2007|Crime, Drama, Thriller|Ethan Coen, Joel Coen|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|1
+104|O Brother, Where Art Thou?|2000|Comedy, Adventure, Crime, Music|Joel Coen|0|1|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0
+104|Raising Arizona|1987|Comedy|Joel Coen|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+104|The Big Lebowski|1998|Comedy, Crime|Joel Coen|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1
+104|The Hudsucker Proxy|1994|Comedy, Drama, Fantasy|Joel Coen|0|0|0|0|1|0|0|1|0|1|0|0|0|0|0|0|0|0|0
+104|The Ladykillers|2004|Comedy, Crime, Thriller|Ethan Coen, Joel Coen|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+104|The Man Who Wasn't There|2001|Crime, Drama|Joel Coen|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0
+104|True Grit|2010|Adventure, Drama, Western|Ethan Coen, Joel Coen|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0
+105|A Dangerous Method|2011|Biography, Drama, Thriller|David Cronenberg|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0
+105|A History of Violence|2005|Crime, Drama, Thriller|David Cronenberg|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+105|Cosmopolis|2012|Drama|David Cronenberg|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+105|Crash|2004|Drama|Paul Haggis|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+105|Crimes of the Future|1970|Comedy, Sci-Fi|David Cronenberg|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|0
+105|Dead Ringers|1988|Drama, Thriller|David Cronenberg|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0
+105|Eastern Promises|2007|Crime, Mystery, Thriller|David Cronenberg|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|1|0|0|0
+105|eXistenZ|1999|Sci-Fi|David Cronenberg|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0
+105|Fast Company|1979|Drama|David Cronenberg|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+105|M. Butterfly|1993|Drama, Romance|David Cronenberg|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+106|Naked Lunch|1991|Drama, Fantasy|David Cronenberg|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0
+106|Rabid|1977|Horror, Sci-Fi|David Cronenberg|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0
+106|Scanners|1981|Horror, Sci-Fi|David Cronenberg|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0
+106|Spider|2002|Drama|David Cronenberg|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+106|Stereo|1969|Sci-Fi|David Cronenberg|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0
+106|The Brood|1979|Horror, Sci-Fi|David Cronenberg|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0
+106|The Dead Zone|1983|Fantasy, Horror, Thriller|David Cronenberg|0|0|0|0|0|0|0|0|0|1|0|1|0|0|0|1|0|0|0
+106|The Fly|1986|Horror, Sci-Fi|David Cronenberg|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0
+106|They Came from Within|1975|Horror, Sci-Fi|David Cronenberg|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0
+106|Videodrome|1983|Horror, Sci-Fi|David Cronenberg|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0
+107|1492: Conquest of Paradise|1992|Adventure, Biography, Drama, History|Ridley Scott|0|1|0|1|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0
+107|A Good Year|2006|Comedy, Drama, Romance|Ridley Scott|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+107|American Gangster|2007|Biography, Crime, Drama|Ridley Scott|0|0|0|1|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0
+107|Black Hawk Down|2001|Drama, History, War|Ridley Scott|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+107|Black Rain|1989|Action, Crime, Drama, Thriller|Ridley Scott|1|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+107|Body of Lies|2008|Action, Drama, Thriller|Ridley Scott|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0
+107|G.I. Jane|1997|Action, Drama|Ridley Scott|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+107|Hannibal|2001|Crime, Drama, Thriller|Ridley Scott|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+107|Kingdom of Heaven|2005|Action, Adventure, Drama, History, War|Ridley Scott|1|1|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+108|Legend|1985|Fantasy, Adventure, Romance|Ridley Scott|0|1|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0
+108|Matchstick Men|2003|Comedy, Crime, Drama, Thriller|Ridley Scott|0|0|0|0|1|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+108|Prometheus|2012|Adventure, Mystery, Sci-Fi|Ridley Scott|0|1|0|0|0|0|0|0|0|0|0|0|1|0|1|0|0|0|0
+108|Robin Hood|2010|Action, Adventure, Drama|Ridley Scott|1|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+108|Someone to Watch Over Me|1987|Action, Crime, Drama, Romance, Thriller|Ridley Scott|1|0|0|0|0|1|0|1|0|0|0|0|0|1|0|1|0|0|0
+108|The Duellists|1977|Drama|Ridley Scott|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+108|Thelma & Louise|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A|#N/A
+108|White Squall|1996|Adventure, Drama|Ridley Scott|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+109|After Hours|1985|Comedy, Drama, Thriller|Martin Scorsese|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|1|0|0|0
+109|Alice Doesn't Live Here Anymore|1974|Drama, Romance|Martin Scorsese|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+109|Bringing Out the Dead|1999|Drama, Thriller|Martin Scorsese|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0
+109|Cape Fear|1991|Thriller|Martin Scorsese|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0
+109|Gangs of New York|2002|Crime, Drama, History|Martin Scorsese|0|0|0|0|0|1|0|1|0|0|1|0|0|0|0|0|0|0|0
+109|Hugo|2011|Adventure, Drama, Family, Mystery|Martin Scorsese|0|1|0|0|0|0|0|1|1|0|0|0|1|0|0|0|0|0|0
+109|Kundun|1997|Biography, Drama, History, War|Martin Scorsese|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+109|Mean Streets|1973|Crime, Drama|Martin Scorsese|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0
+110|New York, New York|1977|Drama, Music|Martin Scorsese|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+110|Shutter Island|2010|Mystery, Thriller|Martin Scorsese|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0
+110|The Age of Innocence|1993|Drama, Romance|Martin Scorsese|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+110|The Aviator|2004|Biography, Drama|Martin Scorsese|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+110|The Color of Money|1986|Drama, Sport|Martin Scorsese|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+110|The King of Comedy|1982|Comedy, Drama|Martin Scorsese|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+110|The Last Temptation of Christ|1988|Drama|Martin Scorsese|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+111|Alexander|2004|Action, Adventure, Biography, Drama, History, Romance, War|Oliver Stone|1|1|0|1|0|0|0|1|0|0|1|0|0|1|0|0|1|0|0
+111|Any Given Sunday|1999|Drama, Sport|Oliver Stone|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+111|Born on the Fourth of July|1989|Biography, Drama, War|Oliver Stone|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0
+111|Heaven & Earth|1993|Action, Biography, Drama, History, War|Oliver Stone|1|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0
+111|JFK|1991|Drama, History, Thriller|Oliver Stone|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|1|0|0|0
+111|Natural Born Killers|1994|Crime, Drama, Thriller|Oliver Stone|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+111|Nixon|1995|Biography, Drama|Oliver Stone|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+111|Platoon|1986|Action, Drama, War|Oliver Stone|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|1
+111|Salvador|1986|Drama, History, Thriller, War|Oliver Stone|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|1|1|0|0
+111|Savages|2012|Crime, Drama, Thriller|Oliver Stone|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+112|Seizure|1974|Horror|Oliver Stone|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0
+112|Talk Radio|1988|Drama|Oliver Stone|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+112|The Doors|1991|Biography, Drama, Music|Oliver Stone|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+112|The Hand|1981|Drama, Horror, Thriller|Oliver Stone|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|1|0|0|0
+112|U Turn|1997|Crime, Drama, Thriller|Oliver Stone|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+112|W.|2008|Biography, Drama, History|Oliver Stone|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0
+112|Wall Street|1987|Crime, Drama|Oliver Stone|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0
+112|Wall Street: Money Never Sleeps|2010|Drama|Oliver Stone|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+112|World Trade Center|2006|Drama|Oliver Stone|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+113|Avatar|2009|Action, Adventure, Fantasy, Sci-Fi|James Cameron|1|1|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0
+113|Titanic|1997|Drama, Romance|James Cameron|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+113|True Lies|1994|Action, Thriller|James Cameron|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0
+113|The Abyss|1989|Adventure, Drama, Sci-Fi, Thriller|James Cameron|0|1|0|0|0|0|0|1|0|0|0|0|0|0|1|1|0|0|0
+113|Piranha Part Two: The Spawning|1981|Drama, Horror, Romance, Sci-Fi|James Cameron|0|0|0|0|0|0|0|1|0|0|0|1|0|1|1|0|0|0|0
+114|Zero Dark Thirty|2012|Drama, History, Thriller|Kathryn Bigelow|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|1|0|0|0
+114|The Hurt Locker|2008|Drama, Thriller, War|Kathryn Bigelow|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|1|0|0
+114|K-19: The Widowmaker|2002|Drama, History, Thriller, War|Kathryn Bigelow|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|1|1|0|0
+114|The Weight of Water|2000|Crime, Drama, Mystery, Thriller|Kathryn Bigelow|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+114|Strange Days|1995|Crime, Drama, Mystery, Sci-Fi, Thriller|Kathryn Bigelow|0|0|0|0|0|1|0|1|0|0|0|0|1|0|1|1|0|0|0
+114|Point Break|1991|Action, Crime, Thriller|Kathryn Bigelow|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+114|Blue Steel|1989|Crime, Drama, Thriller|Kathryn Bigelow|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+114|Near Dark|1987|Drama, Horror, Thriller|Kathryn Bigelow|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|1|0|0|0
+114|The Loveless|1982|Drama|Kathryn Bigelow, Monty Montgomery|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+115|The Dark Knight Rises|2012|Action, Crime, Thriller|Christopher Nolan|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|1
+115|The Avengers|2012|Action|Joss Whedon|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+115|Life of Pi|2012|Adventure, Drama, Fantasy|Ang Lee|0|1|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|1
+115|Django Unchained|2012|Adventure, Western|Quentin Tarantino|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1
+115|The Hobbit: An Unexpected Journey|2012|Adventure, Fantasy|Peter Jackson|0|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1
+116|The Intouchables|2011|Biography, Comedy, Drama|Olivier Nakache, Eric Toledano|0|0|0|1|1|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+116|A Separation|2011|Drama|Asghar Farhadi|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+116|Warrior|2011|Drama, Sport|Gavin O'Connor|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+117|The King's Speech|2010|Biography, Drama, History|Tom Hooper|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|0|0|1
+117|Inception|2010|Action, Adventure, Mystery, Sci-Fi, Thriller|Christopher Nolan|1|1|0|0|0|0|0|0|0|0|0|0|1|0|1|1|0|0|1
+117|Black Swan|2010|Drama, Mystery, Thriller|Darren Aronofsky|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|1
+117|Toy Story 3|2010|Animation, Adventure, Comedy, Family, Fantasy|Lee Unkrich|0|1|1|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|1
+117|How to Train Your Dragon|2010|Animation, Adventure, Comedy, Drama, Family, Fantasy|Dean DeBlois, Chris Sanders|0|1|1|0|1|0|0|1|1|1|0|0|0|0|0|0|0|0|1
+118|Mary and Max|2009|Animation, Comedy, Drama|Adam Elliot|0|0|1|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+118|The Secret in Their Eyes|2009|Drama, Mystery, Thriller|Juan José Campanella|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|1
+118|Inglourious Basterds|2009|Adventure, Drama, War|Quentin Tarantino|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|1
+119|The Dark Knight|2008|Action, Crime, Drama, Thriller|Christopher Nolan|1|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|1
+119|Gran Torino|2008|Drama|Clint Eastwood|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+119|Slumdog Millionaire|2008|Drama, Romance, Thriller|Danny Boyle, Loveleen Tandan|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|1|0|0|1
+119|WALL·E|2008|Animation, Adventure, Family, Romance, Sci-Fi|Andrew Stanton|0|1|1|0|0|0|0|0|1|0|0|0|0|1|1|0|0|0|1
+120|There Will Be Blood|2007|Drama|Paul Thomas Anderson|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+120|Into the Wild|2007|Adventure, Biography, Drama|Sean Penn|0|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+120|The Bourne Ultimatum|2007|Action, Crime, Thriller|Paul Greengrass|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|1
+120|No Country for Old Men|2007|Crime, Drama, Thriller|Ethan Coen, Joel Coen|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|1
+121|The Departed|2006|Crime, Drama, Thriller|Martin Scorsese|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|1
+121|The Lives of Others|2006|Drama, Thriller|Florian Henckel von Donnersmarck|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0|1
+121|The Prestige|2006|Drama, Mystery, Thriller|Christopher Nolan|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|1
+121|Pan's Labyrinth|2006|Drama, Fantasy, War|Guillermo del Toro|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|1|0|1
+122|Sin City|2005|Crime, Thriller|Frank Miller, Robert Rodriguez|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|1
+122|V for Vendetta|2005|Action, Fantasy, Sci-Fi, Thriller|James McTeigue|1|0|0|0|0|0|0|0|0|1|0|0|0|0|1|1|0|0|1
+122|Batman Begins|2005|Action, Adventure, Crime, Drama|Christopher Nolan|1|1|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|1
+123|The Manchurian Candidate|2004|Drama, Mystery, Thriller|Jonathan Demme|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|1
+123|Downfall|2004|Biography, Drama, History, War|Oliver Hirschbiegel|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|1
+123|Howl's Moving Castle|2004|Animation, Action, Adventure, Family, Fantasy, Romance|Hayao Miyazaki|1|1|1|0|0|0|0|0|1|1|0|0|0|1|0|0|0|0|1
+123|Eternal Sunshine of the Spotless Mind|2004|Drama, Romance, Sci-Fi|Michel Gondry|0|0|0|0|0|0|0|1|0|0|0|0|0|1|1|0|0|0|1
+123|Million Dollar Baby|2004|Drama, Sport|Clint Eastwood|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1
+123|Hotel Rwanda|2004|Biography, Drama, History, War|Terry George|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|1
+124|The Lord of the Rings: The Return of the King|2003|Action, Adventure, Fantasy|Peter Jackson|1|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1
+124|Kill Bill: Vol. 1|2003|Action, Crime, Thriller|Quentin Tarantino|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|1
+124|Finding Nemo|2003|Animation, Adventure, Comedy, Family|Andrew Stanton, Lee Unkrich|0|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|1
+125|Schindler's List|1993|Biography, Drama, History, War|Steven Spielberg|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|1
+125|Braveheart|1995|Action, Biography, Drama, History, War|Mel Gibson|1|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|1
+125|Lawrence of Arabia|1962|Adventure, Biography, Drama, History, War|David Lean|0|1|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|1
+125|The Great Escape|1963|Adventure, Drama, History, Thriller, War|John Sturges|0|1|0|0|0|0|0|1|0|0|1|0|0|0|0|1|1|0|1
+125|Das Boot|1981|Action, Adventure, Drama, History, War|Wolfgang Petersen|1|1|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|1
+125|The Pianist|2002|Biography, Drama, History, War|Roman Polanski|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|1|0|1
+126|The Matrix|1999|Action, Adventure, Sci-Fi|Andy Wachowski, Lana Wachowski|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1
+126|The Lord of the Rings: The Fellowship of the Ring|2001|Action, Adventure, Fantasy|Peter Jackson|1|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1
+126|North by Northwest|1959|Action, Adventure, Crime, Mystery, Thriller|Alfred Hitchcock|1|1|0|0|0|1|0|0|0|0|0|0|1|0|0|1|0|0|1
+126|Das Boot|1981|Action, Adventure, Drama, History, War|Wolfgang Petersen|1|1|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|1
+126|Indiana Jones and the Last Crusade|1989|Action, Adventure|Steven Spielberg|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+126|Aliens|1986|Action, Adventure, Sci-Fi, Thriller|James Cameron|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1
+126|Ben-Hur|1959|Action, Adventure, Drama, History, Romance|William Wyler|1|1|0|0|0|0|0|1|0|0|1|0|0|1|0|0|0|0|1
+127|Django Unchained|2012|Adventure, Western|Quentin Tarantino|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1
+127|The Treasure of the Sierra Madre|1948|Action, Adventure, Drama, Western|John Huston|1|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|1
+127|Once Upon a Time in the West|1968|Adventure, Western|Sergio Leone|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1
+127|The Gold Rush|1925|Adventure, Comedy, Family, Romance, Western|Charles Chaplin|0|1|0|0|1|0|0|0|1|0|0|0|0|1|0|0|0|1|1
+127|The Good, the Bad and the Ugly|1966|Adventure, Western|Sergio Leone|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1
+128|The Lion King|1994|Animation, Adventure, Drama, Family, Musical|Roger Allers, Rob Minkoff|0|1|1|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|1
+128|Spirited Away|2001|Animation, Adventure, Family, Fantasy|Hayao Miyazaki|0|1|1|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|1
+128|Toy Story|1995|Animation, Adventure, Comedy, Family, Fantasy|John Lasseter|0|1|1|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|1
+128|Finding Nemo|2003|Animation, Adventure, Comedy, Family|Andrew Stanton, Lee Unkrich|0|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|1
+128|My Neighbor Totoro|1988|Animation, Family, Fantasy|Hayao Miyazaki|0|0|1|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|1
+129|City Lights|1931|Comedy, Drama, Romance|Charles Chaplin|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|1
+129|Groundhog Day|1993|Comedy, Drama, Fantasy, Romance|Harold Ramis|0|0|0|0|1|0|0|1|0|1|0|0|0|1|0|0|0|0|1
+129|The Graduate|1967|Comedy, Drama, Romance|Mike Nichols|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|1
+129|Annie Hall|1977|Comedy, Drama, Romance|Woody Allen|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|1
+129|Life Is Beautiful|1997|Comedy, Drama, Romance, War|Roberto Benigni, Rod Dean|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|1|0|1
+129|The Apartment|1960|Comedy, Drama, Romance|Billy Wilder|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|1
+130|Spirited Away|2001|Animation, Adventure, Family, Fantasy|Hayao Miyazaki|0|1|1|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|1
+130|Toy Story|1995|Animation, Adventure, Comedy, Family, Fantasy|John Lasseter|0|1|1|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|1
+130|The Wizard of Oz|1939|Adventure, Family, Fantasy, Musical|Victor Fleming|0|1|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|1
+130|The Princess Bride|1987|Adventure, Comedy, Family, Fantasy, Romance|Rob Reiner|0|1|0|0|1|0|0|0|1|1|0|0|0|1|0|0|0|0|1
+131|Psycho|1960|Horror, Mystery, Thriller|Alfred Hitchcock|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|1
+131|Jaws|1975|Adventure, Horror, Thriller|Steven Spielberg|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|1
+131|The Thing|1982|Horror, Mystery, Sci-Fi, Thriller|John Carpenter|0|0|0|0|0|0|0|0|0|0|0|1|1|0|1|1|0|0|1
+131|The Exorcist|1973|Horror, Thriller|William Friedkin|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|1
+132|Dial M for Murder|1954|Crime, Mystery, Thriller|Alfred Hitchcock|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|1|0|0|1
+132|The Big Sleep|1946|Crime, Film-Noir, Mystery, Thriller|Howard Hawks|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|1|0|0|1
+132|L.A. Confidential|1997|Crime, Drama, Mystery, Thriller|Curtis Hanson|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|1
+132|Se7en|1995|Crime, Mystery, Thriller|David Fincher|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|1|0|0|1
+132|North by Northwest|1959|Action, Adventure, Crime, Mystery, Thriller|Alfred Hitchcock|1|1|0|0|0|1|0|0|0|0|0|0|1|0|0|1|0|0|1
+132|Chinatown|1974|Crime, Drama, Mystery, Thriller|Roman Polanski|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|1
+132|The Usual Suspects|1995|Crime, Mystery, Thriller|Bryan Singer|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|1|0|0|1
+133|Psycho|1960|Horror, Mystery, Thriller|Alfred Hitchcock|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|1
+133|Jaws|1975|Adventure, Horror, Thriller|Steven Spielberg|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|1
+133|The Thing|1982|Horror, Mystery, Sci-Fi, Thriller|John Carpenter|0|0|0|0|0|0|0|0|0|0|0|1|1|0|1|1|0|0|1
+133|The Exorcist|1973|Horror, Thriller|William Friedkin|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|1
+134|Chinatown|1974|Crime, Drama, Mystery, Thriller|Roman Polanski|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|1
+134|The Usual Suspects|1995|Crime, Mystery, Thriller|Bryan Singer|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|1|0|0|1
+134|Jock the Hero Dog|2011|Animation, Adventure, Comedy, Family|Duncan MacNeillie|0|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+134|Margin Call|2011|Drama, Thriller|J.C. Chandor|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0
+134|Rango|2011|Animation, Adventure, Comedy, Family, Western|Gore Verbinski|0|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|1|0
+134|The Hangover Part II|2011|Comedy|Todd Phillips|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+134|Faces in the Crowd|2011|Crime, Drama, Mystery, Thriller|Julien Magnat|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+135|Kung Fu Panda 2|2011|Animation, Action, Adventure, Comedy, Family|Jennifer Yuh|1|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+135|Sniper: Reloaded|2011|Action, Drama, Thriller, War|Claudio Fäh|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|1|0|0
+135|Attack the Block|2011|Action, Comedy, Sci-Fi|Joe Cornish|1|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|0
+135|Recoil|2011|Action|Terry Miles|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+135|Captain America: The First Avenger|2011|Action, Adventure, Sci-Fi|Joe Johnston|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0
+135|Sucker Punch|2011|Action, Fantasy, Thriller|Zack Snyder|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0
+135|The Twilight Saga: Breaking Dawn - Part 1|2011|Adventure, Drama, Fantasy, Romance|Bill Condon|0|1|0|0|0|0|0|1|0|1|0|0|0|1|0|0|0|0|0
+136|Stone|2010|Drama, Thriller|John Curran|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0
+136|You Will Meet a Tall Dark Stranger|2010|Comedy, Drama, Romance|Woody Allen|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+136|Essential Killing|2010|Thriller, War|Jerzy Skolimowski|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0
+136|The A-Team|2010|Action, Adventure, Thriller|Joe Carnahan|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0
+136|The Last Airbender|2010|Action, Adventure, Family, Fantasy|M. Night Shyamalan|1|1|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+136|From Paris with Love|2010|Action, Crime, Thriller|Pierre Morel|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+136|Open Season 3|2010|Animation, Adventure, Comedy, Family|Cody Cameron|0|1|1|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+136|Resident Evil: Afterlife|2010|Action, Adventure, Horror, Sci-Fi|Paul W.S. Anderson|1|1|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0
+136|The Way Back|2010|Adventure, Drama, History|Peter Weir|0|1|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0
+136|Tomorrow, When the War Began|2010|Action, Adventure, War|Stuart Beattie|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0
+137|S. Darko|2009|Crime, Mystery, Sci-Fi, Thriller|Chris Fisher|0|0|0|0|0|1|0|0|0|0|0|0|1|0|1|1|0|0|0
+137|American Virgin|2009|Comedy|Clare Kilner|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+137|Tony|2009|Drama, Horror, Thriller|Gerard Johnson|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|1|0|0|0
+137|Madea Goes to Jail|2009|Comedy, Crime, Drama|Tyler Perry|0|0|0|0|1|1|0|1|0|0|0|0|0|0|0|0|0|0|0
+137|Doghouse|2009|Comedy, Horror|Jake West|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0
+137|Underworld: Rise of the Lycans|2009|Action, Adventure, Fantasy, Sci-Fi, Thriller|Patrick Tatopoulos|1|1|0|0|0|0|0|0|0|1|0|0|0|0|1|1|0|0|0
+137|St Trinian's II: The Legend of Fritton's Gold|2009|Adventure, Comedy|Oliver Parker, Barnaby Thompson|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+137|The Descent: Part 2|2009|Adventure, Horror, Thriller|Jon Harris|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0
+138|Breathing Room|2008|Horror, Mystery, Thriller|John Suits, Gabriel Cowan|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0
+138|Quantum of Solace|2008|Action, Adventure, Crime, Thriller|Marc Forster|1|1|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+138|The Chronicles of Narnia: Prince Caspian|2008|Action, Adventure, Family, Fantasy|Andrew Adamson|1|1|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+138|Nim's Island|2008|Adventure, Comedy, Family, Fantasy|Jennifer Flackett, Mark Levin|0|1|0|0|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0
+139|Fracture|2007|Crime, Drama, Mystery, Thriller|Gregory Hoblit|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+139|The Brave One|2007|Crime, Drama, Thriller|Neil Jordan|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+139|Eagle vs Shark|2007|Comedy, Romance|Taika Waititi|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0
+139|Cougar Club|2007|Comedy|Christopher Duddy|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+139|Silk|2007|Drama, Romance|François Girard|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+139|Ghost Rider|2007|Action, Fantasy, Thriller|Mark Steven Johnson|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0
+140|Savage Grace|2007|Drama|Tom Kalin|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+140|Highlander: The Source|2007|Action, Adventure, Fantasy, Sci-Fi|Brett Leonard|1|1|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0
+140|Resident Evil: Extinction|2007|Action, Horror, Sci-Fi, Thriller|Russell Mulcahy|1|0|0|0|0|0|0|0|0|0|0|1|0|0|1|1|0|0|0
+140|The Simpsons Movie|2007|Animation, Adventure, Comedy|David Silverman|0|1|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+140|Rogue|2007|Action, Adventure, Horror, Sci-Fi, Thriller|Greg Mclean|1|1|0|0|0|0|0|0|0|0|0|1|0|0|1|1|0|0|0
+141|Lucky Number Slevin|2006|Crime, Drama, Mystery, Thriller|Paul McGuigan|0|0|0|0|0|1|0|1|0|0|0|0|1|0|0|1|0|0|0
+141|The Last King of Scotland|2006|Biography, Drama, History|Kevin Macdonald|0|0|0|1|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0
+141|Danika|2006|Drama, Horror, Mystery, Thriller|Ariel Vromen|0|0|0|0|0|0|0|1|0|0|0|1|1|0|0|1|0|0|0
+141|Annapolis|2006|Drama, Romance, Sport|Justin Lin|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+141|Bandidas|2006|Action, Comedy, Crime, Western|Joachim Rønning, Espen Sandberg|1|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|1|0
+141|Apocalypto|2006|Action, Adventure, Drama, Thriller|Mel Gibson|1|1|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0
+141|X-Men: The Last Stand|2006|Action, Adventure, Sci-Fi, Thriller|Brett Ratner|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0
+142|Stealth|2005|Action, Adventure, Sci-Fi, Thriller|Rob Cohen|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0|0
+142|Harry Potter and the Goblet of Fire|2005|Adventure, Family, Fantasy, Mystery|Mike Newell|0|1|0|0|0|0|0|0|1|1|0|0|1|0|0|0|0|0|0
+143|The I Inside|2004|Mystery, Sci-Fi, Thriller|Roland Suso Richter|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|1|0|0|0
+143|Catch That Kid|2004|Comedy, Crime|Bart Freundlich|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0
+143|Wimbledon|2004|Comedy, Romance, Sport|Richard Loncraine|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0
+144|Mama|2013|Horror, Thriller|Andrés Muschietti|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0
+144|Behind the Candelabra|2013|Biography, Drama, Romance|Steven Soderbergh|0|0|0|1|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0
+144|Olympus Has Fallen|2013|Action, Thriller|Antoine Fuqua|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0
+144|Side Effects|2013|Crime, Drama, Thriller|Steven Soderbergh|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0
+144|Parker|2013|Action, Crime|Taylor Hackford|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0
